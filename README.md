@@ -35,13 +35,13 @@ Data-Driven Decisions: Analytics helps companies understand consumer behavior, m
 
 3. **How to Implement RFM:**
    - **Scale Selection**: Depending on your store's size, use one of the following scales:
-Rating Customer based upon the RFM Score
+Rating Customer based upon the RFM Score<br>
 
-rfm score>4.5: Top Customer
-4.5 > rfm score > 4 : High Value Customer
-4>rfm score >3 : Medium value Customer
-3>rfm score>1.5 : Low value customer
-rfm score<1.5 : Lost customer
+rfm score>4.5: Top Customer<br>
+4.5 > rfm score > 4 : High Value Customer<br>
+4>rfm score >3 : Medium value Customer<br>
+3>rfm score>1.5 : Low value customer<br>
+rfm score<1.5 : Lost customer<br>
    - **Segmentation**:
      - **High RFM Score**: These are your best customers.
      - **Low RFM Score**: Target them for re-engagement.
